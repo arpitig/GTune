@@ -1,0 +1,6 @@
+package com.gTunes
+
+class SampleController {
+
+    def index() { }
+}
